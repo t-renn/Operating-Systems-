@@ -1,3 +1,6 @@
 The operating system of a computer has different functions. 
 Security is one of those functions. 
 An operating system uses passwords to protect data stored within the system.
+Another function of an operating system is job accounting.
+This is when an OS keeps track of time and resources used by various users
+It also tracks the various tasks revolved around the operating system.

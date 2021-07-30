@@ -4,3 +4,6 @@ An operating system uses passwords to protect data stored within the system.
 Another function of an operating system is job accounting.
 This is when an OS keeps track of time and resources used by various users
 It also tracks the various tasks revolved around the operating system.
+An OS can also detect erros and flaws in the system.
+This helps it avoid the malfunctioning of the computer.
+This allows for an OS to run smoothly. 
